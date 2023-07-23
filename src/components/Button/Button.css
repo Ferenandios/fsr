@@ -1,0 +1,3 @@
+.content__button {
+  @apply px-10 py-4 bg-black text-white font-semibold rounded-3xl;
+}
