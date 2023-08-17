@@ -3,13 +3,13 @@
   @apply outline-none h-8 px-1 font-light
 }
 .header {
-  @apply h-16 border-b-2 border-pink-300 flex justify-between px-3 flex items-center
+  @apply h-16 border-b-2 border-pink-300 flex justify-between px-3 flex items-center fixed top-0 w-full bg-white bg-opacity-90
 }
 .header__logo {
   @apply text-4xl font-black
 }
 .header__search {
-  @apply flex border-2 rounded-md max-w-[65%]
+  @apply flex border-2 rounded-md max-w-[65%] bg-white
 }
 .header__button {
   @apply outline-none border-r-2 w-8 h-8 flex justify-center items-center
