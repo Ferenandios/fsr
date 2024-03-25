@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fsr/static/css/main.e324745b.css",
+    "main.js": "/fsr/static/js/main.d8d80adf.js",
+    "static/media/RALEWAY-LIGHT.TTF": "/fsr/static/media/RALEWAY-LIGHT.f25e9b3a1fc8e48e53f5.TTF",
+    "static/media/RALEWAY-SEMIBOLD.TTF": "/fsr/static/media/RALEWAY-SEMIBOLD.243af299ad3631bfc369.TTF",
+    "static/media/RALEWAY-BLACK.TTF": "/fsr/static/media/RALEWAY-BLACK.eef1ff812c4eced3a276.TTF",
+    "index.html": "/fsr/index.html",
+    "main.e324745b.css.map": "/fsr/static/css/main.e324745b.css.map",
+    "main.d8d80adf.js.map": "/fsr/static/js/main.d8d80adf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e324745b.css",
+    "static/js/main.d8d80adf.js"
+  ]
+}
