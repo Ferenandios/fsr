@@ -1,6 +1,7 @@
 {
   "name": "fsr",
   "version": "0.1.0",
+  "homepage": "https://Ferenandios.github.io/fsr",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
@@ -8,7 +9,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.4.0",
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
@@ -46,6 +47,5 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.25",
     "tailwindcss": "^3.3.2"
-  },
-  "homepage": "https://Ferenandios.github.io/fsr"
+  }
 }
